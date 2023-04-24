@@ -6,14 +6,6 @@ var user = 'UCvXscyQ0cLzPZeNOeXI45Sw';
 var selectButton = $('#regionsSelected');
 
 
-
-
-
-
-
-
-
-
 //getting video categories
 
 
